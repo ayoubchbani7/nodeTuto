@@ -1,0 +1,21 @@
+{
+  "name": "node_tuto",
+  "version": "1.0.0",
+  "description": "Awesome API REST to handle some tuto_nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tuto_node"
+  },
+  "author": "ayoub_chbani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
