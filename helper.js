@@ -1,9 +1,3 @@
-const success = (message,data) => {
-
-    return {
-        message : message,
-        data : data
-    }
+export const success = (message, data) => {
+    return { message, data };
 };
-
-exports.success ;

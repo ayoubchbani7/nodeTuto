@@ -13,9 +13,11 @@
   "author": "ayoub_chbani",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "serve-favicon": "^2.5.1"
   },
   "devDependencies": {
+    "morgan": "^1.10.1",
     "nodemon": "^3.1.11"
   }
 }
